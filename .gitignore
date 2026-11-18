@@ -1,0 +1,75 @@
+# ---------------------------------------------------------------
+# Unity: carpetas generadas (se regeneran al abrir el proyecto)
+# IMPORTANTE: los archivos .meta SI se suben (guardan los GUID).
+# ---------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Ee]xportedObj/
+*.log
+
+# ---------------------------------------------------------------
+# Archivos de IDE / solucion generados por Unity
+# ---------------------------------------------------------------
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---------------------------------------------------------------
+# Unity Version Control (Plastic): carpeta del workspace y restos
+# de merge. No van a GitHub.
+# ---------------------------------------------------------------
+.plastic/
+ignore.conf
+*.private.*
+
+# ---------------------------------------------------------------
+# Restos de merge / temporales
+# ---------------------------------------------------------------
+*.orig
+*.rej
+*.tmp
+*.bak
+
+# ---------------------------------------------------------------
+# Builds y paquetes
+# ---------------------------------------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+sysinfo.txt
+crashlytics-build.properties
+
+# ---------------------------------------------------------------
+# Carpeta temporal de limpieza (no subir)
+# ---------------------------------------------------------------
+/_SinUso/
+
+# ---------------------------------------------------------------
+# Sistema operativo
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
